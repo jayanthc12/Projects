@@ -1,8 +1,10 @@
 # Projects
 This project aims to build a sample sign language detection system using Python and computer vision techniques. The goal is to enable real-time sign language translation by capturing and interpreting hand gestures through a webcam.
 
-### Sample Data 
+### Sample Data - Input
 This contains the pictures of sample data is is collected with the help of the collect_dataset program.
+
+### Screenshot(119).png - Output
 
 ### collect_dataset.py
 This code utilizes the OpenCV library to capture real-time video frames and save them as images, creating a labeled dataset for machine learning tasks.
